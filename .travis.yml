@@ -1,0 +1,5 @@
+language: not_a_real_language
+before_install:
+  - 'echo AWS_API_KEY="AKIAIOSFODNN7EXAMPLE"'
+  - 'echo AWS_SECRET_KEY="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"'
+  
